@@ -371,7 +371,7 @@ h2 {
     margin: 0 auto;
   }
   ul.nav li {
-    float: initial;
+    /*float: initial;*/
     display: inline-block;
   }
   .responsivegroup {
