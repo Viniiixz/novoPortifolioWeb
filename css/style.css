@@ -358,7 +358,7 @@ h2 {
     background: #eee;
   }
   #logo {
-    position: initial;
+    position: initial; 
     float: none;
     display: block;
     transform: none;
